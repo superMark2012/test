@@ -1,0 +1,50 @@
+#test1 
+{
+    color: blue;
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+    font-size: 500%;
+    cursor: pointer;
+}
+
+a {cursor: url(assets/system/cursors/cursor-1.png), pointer;}
+
+img {cursor: url(assets/system/cursors/cursor-2.png), default;}
+
+body {background-image: url(assets/system/BG/BG-1.jpg);}
+
+#b1 
+{
+    cursor: pointer;
+    position: absolute;
+    bottom: 30px;
+    left: 650px;
+    background-color: brown;
+    color: blue;
+}
+
+table 
+{
+    border-color: black;
+    position: absolute;
+    top: 700px;
+    left: 700px;
+}
+
+#a1 
+{
+    position: absolute;
+    top: 850px;
+    left: 730px;
+}
+
+#a2 
+{
+    position: absolute;
+    top: 900px;
+    left: 700px;
+    color: rgb(0, 255, 21);
+    font: bold;
+    font-size: 300%;
+}
